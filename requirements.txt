@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+numpy<2
+pandas
+Pillow
+dlib-bin
+face_recognition_models
+setuptools<81
